@@ -160,6 +160,11 @@ p{
     background-size: cover;
 }
 
+.card_img img {
+    width: 300px;
+    height: 80px;
+}
+
 .card_title {
     padding: 20px;
     text-align: center;
